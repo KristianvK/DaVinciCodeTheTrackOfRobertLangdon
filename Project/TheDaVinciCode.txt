@@ -1,66 +1,6 @@
 The Da Vinci Code 
 
-
-
 Dan Brown 
-
-
-
-FOR BLYTHE... AGAIN. MORE THAN EVER. 
-
-
-
-Acknowledgments 
-
-First and foremost, to my friend and editor, Jason Kaufman, for working so hard on this project and 
-for truly understanding what this book is all about. And to the incomparable Heide Lange - tireless 
-champion of The Da Vinci Code, agent extraordinaire, and trusted friend. 
-
-I cannot fully express my gratitude to the exceptional team at Doubleday, for their generosity, faith, 
-and superb guidance. Thank you especially to Bill Thomas and Steve Rubin, who believed in this 
-book from the start. My thanks also to the initial core of early in-house supporters, headed by 
-Michael Palgon, Suzanne Herz, Janelle Moburg, Jackie Everly, and Adrienne Sparks, as well as to 
-the talented people of Doubleday's sales force. 
-
-For their generous assistance in the research of the book, I would like to acknowledge the Louvre 
-Museum, the French Ministry of Culture, Project Gutenberg, Bibliotheque Nationale, the Gnostic 
-Society Library, the Department of Paintings Study and Documentation Service at the Louvre, 
-Catholic World News, Royal Observatory Greenwich, London Record Society, the Muniment 
-Collection at Westminster Abbey, John Pike and the Federation of American Scientists, and the 
-five members of Opus Dei (three active, two former) who recounted their stories, both positive and 
-negative, regarding their experiences inside Opus Dei. 
-
-My gratitude also to Water Street Bookstore for tracking down so many of my research books, my 
-father Richard Brown - mathematics teacher and author - for his assistance with the Divine 
-Proportion and the Fibonacci Sequence, Stan Planton, Sylvie Baudeloque, Peter McGuigan, 
-Francis Mclnerney, Margie Wachtel, Andre Vernet, Ken Kelleher at Anchorball Web Media, Cara 
-Sottak, Karyn Popham, Esther Sung, Miriam Abramowitz, William Tunstall-Pedoe, and Griffin 
-Wooden Brown. 
-
-And finally, in a novel drawing so heavily on the sacred feminine, I would be remiss if I did not 
-mention the two extraordinary women who have touched my life. First, my mother, Connie 
-Brown - fellow scribe, nurturer, musician, and role model. And my wife, Blythe - art historian, 
-
-
-
-painter, front-line editor, and without a doubt the most astonishingly talented woman I have ever 
-known. 
-
-
-
-FACT: 
-
-The Priory of Sion - a European secret society founded in 1099 - is a real organization. In 1975 
-Paris's Bibliotheque Nationale discovered parchments known as Les Dossiers Secrets, identifying 
-numerous members of the Priory of Sion, including Sir Isaac Newton, Botticelli, Victor Hugo, and 
-Leonardo da Vinci. 
-
-The Vatican prelature known as Opus Dei is a deeply devout Catholic sect that has been the topic 
-of recent controversy due to reports of brainwashing, coercion, and a dangerous practice known as 
-"corporal mortification." Opus Dei has just completed construction of a $47 million World 
-Headquarters at 243 Lexington Avenue in New York City. 
-
-All descriptions of artwork, architecture, documents, and secret rituals in this novel are accurate. 
 
 
 
@@ -7895,7 +7835,7 @@ all, previous Priory Grand Masters had also been distinguished public figures wi
 Proof of that fact had been uncovered years ago in Paris's Bibliotheque Nationale in papers that 
 became known as Les Dossiers Secrets. 
 
-Every Priory historian and Grail buff had read the Dossiers. Cataloged under Number 4� lm 1 249, 
+Every Priory historian and Grail buff had read the Dossiers. Cataloged under Number 4  lm 1 249, 
 the Dossiers Secrets had been authenticated by many specialists and incontrovertibly confirmed 
 what historians had suspected for a long time: Priory Grand Masters included Leonardo da Vinci, 
 Botticelli, Sir Isaac Newton, Victor Hugo, and, more recently, Jean Cocteau, the famous Parisian 
@@ -9099,7 +9039,7 @@ Teabing apparently had a similar thought. "Robert, perhaps this is the moment fo
 to clarify?" He went to a nearby end table, found a piece of paper, and laid it in front of Langdon. 
 
 Langdon pulled a pen from his pocket. "Sophie, are you familiar with the modern icons for male 
-and female?" He drew the common male symbol c? and female symbol �. 
+and female?" He drew the common male symbol c? and female symbol  . 
 
 "Of course," she said. 
 
@@ -12479,7 +12419,7 @@ The remainder of the poem clearly implied that the password for opening the seco
 be found by visiting this knight's tomb, somewhere in the city. 
 
 Langdon turned excitedly to Teabing. "Do you have any idea what knight this poem is referring 
-t0? � 
+t0?   
 
 Teabing grinned. "Not the foggiest. But I know in precisely which crypt we should look." 
 
@@ -12545,7 +12485,7 @@ above the doorway." He sighed. "Kind of makes you want to go back to church."
 Collet picked up the second evidence bag. Through the plastic, he could see a large glossy 
 photograph of what appeared to be an old document. The heading at the top read: 
 
-Les Dossiers Secrets - Number 4� Im 1 249 
+Les Dossiers Secrets - Number 4  Im 1 249 
 
 "What's this?" Collet asked. 
 
@@ -17198,7 +17138,7 @@ Langdon stopped short, mute with amazement as it dawned on him.
 
 
 
-� 
+  
 
 
 
@@ -17515,7 +17455,7 @@ from the chasms of the earth.
 
 
 
-Copyright � 2003 by Dan Brown 
+Copyright   2003 by Dan Brown 
 ISBN 0-385-50420-9 
 
 
