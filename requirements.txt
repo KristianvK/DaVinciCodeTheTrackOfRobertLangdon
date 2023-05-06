@@ -3,3 +3,7 @@ nltk
 pandas
 numpy
 #urllib3==1.25.11 #optional based on your python version
+transformers
+torch
+sentencepiece
+sacremoses
