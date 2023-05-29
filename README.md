@@ -5,4 +5,4 @@
 <p align="justify">
 After performing some coreference resolution with Lingmess and SpanBERT, we use BERT and RoBERTa for named entity recognition (NER), normalizing the output with soft TF-IDF and Levenshtein distance. Afterwards, we map characters to location and lastly perform some topic modeling comparing LDA and BERTopic. Finally, we end this report by revealing the different sites visited by Robert Langdon throughout his quest.
 </p>
-[README](/README.md)
+[README](https://github.com/KristianvK/DaVinciCodeTheTrackOfRobertLangdon/blob/main/README.md)
